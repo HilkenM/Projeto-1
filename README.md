@@ -37,11 +37,6 @@ Antes de executar os scripts, certifique-se de que você possui:
    python3 untitled0.py
    ```
 
-## Personalização
-Se o script Python aceitar argumentos, modifique o arquivo `python_script.sh` para incluir os parâmetros desejados. Por exemplo:
-```bash
-python3 untitled0.py argumento1 argumento2
-```
 
 ## Problemas Comuns
 1. **"Permission denied" ao executar o Shell Script:**
